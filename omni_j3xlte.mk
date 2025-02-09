@@ -30,3 +30,4 @@ PRODUCT_DEVICE := j3xlte
 PRODUCT_BRAND := Samsung
 PRODUCT_MODEL := Samsung Galaxy J3 (2016)
 PRODUCT_MANUFACTURER := Samsung
+
